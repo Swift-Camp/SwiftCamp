@@ -104,11 +104,43 @@ getSessions([
                  "website":"",
                  "openSourceRole":"",
                  "organization":"Qutheory",
-                 "role":"",
+                 "role":"Software Engineer &amp; Entrepreneur",
                  "bio":"<p>Tanner is an American software engineer and entrepreneur in New York City. His passion for computer science was realized in 2005, almost a decade before he started working toward his B.A. at New York University in 2012. Tanner's current focus is developing an open source web framework in Swift: Vapor. Prior to that, he has worked as a full stack, iOS, and embedded systems engineer. </p>",
                  }
                  ]
      }
+     },
+	{
+     "camp":"Swift Camp",
+     "tech":"swift",
+     "date":"2016-07-13",
+     "timeStart":"20:00",
+     "timeStop":"20:30",
+     "sessionTitle":"Type-safe Functional Formatting in Swift",
+     "sessionSubTitle":"",
+     "sessionSummary":"<p>Representing data as text is a fundamental requirement of our everyday lives as engineers. Let's explore the various ways strings are typically formatted in Swift and Cocoa, where they fall short, and what we can do to build a more modular, compile-time-confident way of formatting our data.</p>",
+     "sessionType":"Session",
+     "sessionSlides":"",
+     "sessionVideo":"",
+     "speakers": {
+     "speaker": [
+                 {
+                 "nameFirst":"Stephen",
+                 "nameLast":"Celis",
+                 "photo":"stephen_celis.png",
+                 "linkedin":"",
+                 "twitter":"https://twitter.com/stephencelis",
+                 "github":"https://github.com/stephencelis",
+                 "facebook":"",
+                 "website":"",
+                 "openSourceRole":"",
+                 "organization":"Kickstarter, PBC",
+                 "role":"iOS Engineer",
+                 "bio":"<p>Stephen Celis is an iOS Engineer at Kickstarter.</p>",
+                 }
+                 ]
      }
+     }
+           
              
 ])
