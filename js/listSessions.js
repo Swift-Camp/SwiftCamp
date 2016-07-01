@@ -18,11 +18,44 @@ getSessions([
      "camp":"Swift Camp",
      "tech":"swift",
      "date":"2016-07-13",
-     "timeStart":"",
-     "timeStop":"",
-     "sessionTitle":"Testing Topics in iOS [Session Title is Subject to Change]",
+     "timeStart":"09:00",
+     "timeStop":"17:00",
+     "sessionTitle":"Agenda coming soon.",
      "sessionSubTitle":"",
-     "sessionSummary":"<p></p>",
+     "sessionSummary":"",
+     "sessionType":"Workshop",
+     "sessionSlides":"",
+     "sessionVideo":"",
+     "speakers": {
+     "speaker": [
+                 {
+                 "nameFirst":"Aferdita",
+                 "nameLast":"Muriqi",
+                 "photo":"aferdita_muriqi.png",
+                 "linkedin":"https://www.linkedin.com/in/aferdita",
+                 "twitter":"https://twitter.com/aferditamuriqi",
+                 "github":"https://github.com/aferditamuriqi",
+                 "facebook":"https://www.facebook.com/muriqi.aferdita",
+                 "website":"http://www.d-i-t-a.com",
+                 "openSourceRole":"Swift Camp Organizer",
+                 "organization":"NYPL | NYU | DITA | NYCSwift",
+                 "role":"",
+                 "bio":"",
+                 }
+                 ]
+     }
+     },
+
+
+     {
+     "camp":"Swift Camp",
+     "tech":"swift",
+     "date":"2016-07-13",
+     "timeStart":"17:30",
+     "timeStop":"18:00",
+     "sessionTitle":"",
+     "sessionSubTitle":"",
+     "sessionSummary":"",
      "sessionType":"Session",
      "sessionSlides":"",
      "sessionVideo":"",
@@ -31,7 +64,7 @@ getSessions([
                  {
                  "nameFirst":"John",
                  "nameLast":"Lin",
-                 "photo":"",
+                 "photo":"john_lin.png",
                  "linkedin":"",
                  "twitter":"https://twitter.com/weareprolific",
                  "github":"https://github.com/prolificinteractive",
@@ -50,8 +83,8 @@ getSessions([
      "camp":"Swift Camp",
      "tech":"swift",
      "date":"2016-07-13",
-     "timeStart":"",
-     "timeStop":"",
+     "timeStart":"18:00",
+     "timeStop":"18:30",
      "sessionTitle":"Building Web Apps in Swift",
      "sessionSubTitle":"",
      "sessionSummary":"<p>Find out the advantages of server side Swift over PHP, Ruby, JS, etc while learning how to create a web application using Swift. You will see how to get started with your own project,  deploy to Linux,  and contribute to the community.</p>",
@@ -63,7 +96,7 @@ getSessions([
                  {
                  "nameFirst":"Tanner",
                  "nameLast":"Nelson",
-                 "photo":"",
+                 "photo":"tanner_nelson.png",
                  "linkedin":"",
                  "twitter":"http://twitter.com/tanner0101",
                  "github":"http://github.com/tannernelson",

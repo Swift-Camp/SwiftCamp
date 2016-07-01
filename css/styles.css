@@ -176,3 +176,8 @@ h4.block-title {
 	padding-left: .5em;
 	text-align: center;
 }
+
+.scheduling .slot,
+.session .scheduling .date {
+	display: block!important;
+}
