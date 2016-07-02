@@ -140,6 +140,37 @@ getSessions([
                  }
                  ]
      }
+     },
+	{
+     "camp":"Swift Camp",
+     "tech":"swift",
+     "date":"2016-07-13",
+     "timeStart":"20:30",
+     "timeStop":"21:00",
+     "sessionTitle":"Concurrency in Swift",
+     "sessionSubTitle":"",
+     "sessionSummary":"<p>Concurrency is a fundamental aspect of modern computing and application development, let's explore how to make this work on Apple devices and on the server.</p>",
+     "sessionType":"Session",
+     "sessionSlides":"",
+     "sessionVideo":"",
+     "speakers": {
+     "speaker": [
+                 {
+                 "nameFirst":"Blake",
+                 "nameLast":"Tucker",
+                 "photo":"blake_tucker.png",
+                 "linkedin":"",
+                 "twitter":"https://twitter.com/blaketucker",
+                 "github":"https://github.com/brtucker",
+                 "facebook":"",
+                 "website":"",
+                 "openSourceRole":"",
+                 "organization":"American Express",
+                 "role":"iOS Engineer",
+                 "bio":"<p>Blake Tucker is an iOS Engineer at American Express building their core consumer app for the US market. Prior to iOS, much of his attention was in the C# and Java realms, working on developing server-side jobs and restful web interfaces.</p>",
+                 }
+                 ]
+     }
      }
            
              
