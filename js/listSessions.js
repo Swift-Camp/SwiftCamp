@@ -53,9 +53,9 @@ getSessions([
      "date":"2016-07-13",
      "timeStart":"18:30",
      "timeStop":"19:00",
-     "sessionTitle":"",
+     "sessionTitle":"Conquering the Testing Beast",
      "sessionSubTitle":"",
-     "sessionSummary":"",
+     "sessionSummary":"<p>Testing can be a rather daunting subject, but it doesn't have to be. Here we will dive into unit testing in iOS, getting exposure to how to write tests, where it can be really powerful, and touch on techniques like test doubles.</p>",
      "sessionType":"Session",
      "sessionSlides":"",
      "sessionVideo":"",
@@ -73,7 +73,7 @@ getSessions([
                  "openSourceRole":"",
                  "organization":"Prolific Interactive",
                  "role":"iOS Engineer",
-                 "bio":"<p>John Lin is an iOS Engineer at Prolific Interactive, a mobile agency based in Brooklyn and San Francisco.</p>",
+                 "bio":"<p>John Lin is an iOS Engineer at Prolific Interactive who loves making things. He got his start with Lego blocks as a kid, found programming when building mini games in Starcraft, and now does the iOS. He holds a particular fascination for unit testing and is rather opinionated on the subject.</p>",
                  }
                  ]
      }
