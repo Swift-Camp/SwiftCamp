@@ -83,8 +83,8 @@ getSessions([
      "camp":"Swift Camp",
      "tech":"swift",
      "date":"2016-07-13",
-     "timeStart":"19:30",
-     "timeStop":"20:00",
+     "timeStart":"19:00",
+     "timeStop":"19:30",
      "sessionTitle":"Building Web Apps in Swift",
      "sessionSubTitle":"",
      "sessionSummary":"<p>Find out the advantages of server side Swift over PHP, Ruby, JS, etc while learning how to create a web application using Swift. You will see how to get started with your own project,  deploy to Linux,  and contribute to the community.</p>",
@@ -114,8 +114,8 @@ getSessions([
      "camp":"Swift Camp",
      "tech":"swift",
      "date":"2016-07-13",
-     "timeStart":"20:00",
-     "timeStop":"20:30",
+     "timeStart":"19:30",
+     "timeStop":"20:00",
      "sessionTitle":"Type-safe Functional Formatting in Swift",
      "sessionSubTitle":"",
      "sessionSummary":"<p>Representing data as text is a fundamental requirement of our everyday lives as engineers. Let's explore the various ways strings are typically formatted in Swift and Cocoa, where they fall short, and what we can do to build a more modular, compile-time-confident way of formatting our data.</p>",
@@ -145,8 +145,8 @@ getSessions([
      "camp":"Swift Camp",
      "tech":"swift",
      "date":"2016-07-13",
-     "timeStart":"20:30",
-     "timeStop":"21:00",
+     "timeStart":"20:00",
+     "timeStop":"20:30",
      "sessionTitle":"Concurrency in Swift",
      "sessionSubTitle":"",
      "sessionSummary":"<p>Concurrency is a fundamental aspect of modern computing and application development, let's explore how to make this work on Apple devices and on the server.</p>",
@@ -168,6 +168,37 @@ getSessions([
                  "organization":"American Express",
                  "role":"iOS Engineer",
                  "bio":"<p>Blake Tucker is an iOS Engineer at American Express building their core consumer app for the US market. Prior to iOS, much of his attention was in the C# and Java realms, working on developing server-side jobs and restful web interfaces.</p>",
+                 }
+                 ]
+     }
+     },
+	{
+     "camp":"Swift Camp",
+     "tech":"swift",
+     "date":"2016-07-13",
+     "timeStart":"20:30",
+     "timeStop":"21:00",
+     "sessionTitle":"Native Cross Platform Development with Swift",
+     "sessionSubTitle":"",
+     "sessionSummary":"<p>Build Cross Platform mobile applications for Android and iOS using Swift and SCADE. Find out the cost and time advantages of using Swift for cross platform development while building a modern native cross platform app from scratch.</p>",
+     "sessionType":"Session",
+     "sessionSlides":"",
+     "sessionVideo":"",
+     "speakers": {
+     "speaker": [
+                 {
+                 "nameFirst":"Frank",
+                 "nameLast":"Langel",
+                 "photo":"frank_langel.png",
+                 "linkedin":"",
+                 "twitter":"",
+                 "github":"",
+                 "facebook":"",
+                 "website":"",
+                 "openSourceRole":"",
+                 "organization":"SCADE.IO",
+                 "role":"CEO",
+                 "bio":"<p>CEO, SCADE.IO</p>",
                  }
                  ]
      }
